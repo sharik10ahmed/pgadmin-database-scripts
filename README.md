@@ -1,7 +1,7 @@
 # Sharik Ahmed's Coding Portfolio 👨‍💻
 
 ## 👋 About Me
-Welcome to my personal code repository! I am a **BCA Student** passionate about software development, database management, and programming logic. This repository serves as a central hub for my academic projects, self-learning experiments, and coding practice.
+Welcome to my personal code repository! I am passionate about software development, database management, and programming logic. This repository serves as a central hub for my academic projects, self-learning experiments, and coding practice.
 
 ## 🚀 Repository Structure
 This repository is organized into specific folders for different technologies. Click on the project name below to view the code and documentation.
